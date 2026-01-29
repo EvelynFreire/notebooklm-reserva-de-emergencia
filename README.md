@@ -3,9 +3,9 @@ Este repositório faz parte de um desafio da Dio. Nele você vai encontrar acess
 
 ### Conteúdo:
 Porque ter uma reserva de emergência é fundamental; \
-Manual para o cálculo da reserva de emergênica; \
+Manual para o cálculo da reserva de emergência; \
 Guia de investimentos; \
-Glossário da reserva de emergênia.
+Glossário da reserva de emergência.
 
 #### Fontes:
 As fontes utilizadas foram pré-selecionadas em sites de confiança e podem ser verificadas ao acessar o NotebookLM.
